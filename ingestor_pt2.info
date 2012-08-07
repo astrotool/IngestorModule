@@ -1,0 +1,7 @@
+;$Id$
+name = Ingestor prototype version 2
+description = Ingestor form
+core = 7.x
+php = 5.2
+package = Ingestor dev
+files[] = ingestor_pt2.module
